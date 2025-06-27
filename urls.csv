@@ -1,0 +1,11 @@
+url,label
+http://192.168.0.1/login,1
+https://secure-update-paypal.com,1
+http://login.example.com@malicious-site.com,1
+https://www.google.com,0
+http://www.bankofamerica.com.login.verify.com,1
+https://github.com,0
+http://verify-apple.com,1
+https://www.amazon.com,0
+http://malicious-site.com/secure/update,1
+https://accounts.google.com,0
